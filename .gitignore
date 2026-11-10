@@ -3,5 +3,7 @@ models/
 logs/
 __pycache__/
 *.pyc
-app/debug_logs/
-app/perf_logs/
+source/app/debug_logs/
+source/app/perf_logs/
+SoundCaption/
+*.joining
