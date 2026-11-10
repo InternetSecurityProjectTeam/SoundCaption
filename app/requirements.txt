@@ -1,0 +1,11 @@
+PySide6
+# 아래는 소리 분석(백엔드)용 — 모델을 돌리던 Python 환경에 이미 있으면 다시 설치할 필요 없음
+numpy
+scipy
+torch
+transformers
+soundfile
+pyaudiowpatch
+panns_inference
+librosa
+psutil   # 성능 기록(성능기록_실행.bat·지연시험_실행.bat)에서 CPU·메모리 측정용. 없으면 그 칸만 비움
